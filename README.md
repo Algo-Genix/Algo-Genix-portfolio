@@ -33,7 +33,7 @@ Built to be clean, mobile-friendly, and easily customizable for any beginner or 
 
 ## 📸 Live Demo
 
-> (Add your GitHub Pages link or a video/gif demo here!)
+> (https://algo-genix.github.io/Algo-Genix-portfolio/)
 
 ---
 
