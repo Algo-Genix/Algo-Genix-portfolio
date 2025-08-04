@@ -82,7 +82,7 @@ Pull requests are welcome! Feel free to open issues, make suggestions, or fork f
 - 📞 7594876122
 - [Instagram](#)
 - [LinkedIn](#)
-- [GitHub](#)
+- [GitHub](https://github.com/Algo-Genix)
 
 ---
 
